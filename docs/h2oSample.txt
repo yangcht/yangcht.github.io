@@ -1,0 +1,109 @@
+####################### IMPORTANT UPDATED INFORMATION #######################
+##  Please check this http://sfig.pmo.ac.cn/~yangcht/L_h2o-L_IR_table.dat  ##
+##  for the very PRELIMINARY L_H2O and L_IR table, the full table          ##
+##  will be published by Liu et al., in prep..                             ##
+#############################################################################
+##  Email: yangcht[at]pmo.ac.cn                                            ##
+#############################################################################
+(Chentao Yang, Yu Gao, A. Omont, Daizhong Liu, et al., 2013, ApJ, 771, L24)
+
+
+ There are 45 sources with at least one H2O emission line detected: 
+
+ 
+ TABLE 1.    Project names and the H2O detection number in each project
+===============================================================================================================================================
+ Project ID           PI Name                  Number of the       Number of the     Notes
+                                               Observations*        Detections              
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ KPOT_pvanderw_1      Paul van der Werf        32                  24                Survey of molecular lines in (U)LIRGs with deep exposure
+ OT1_nlu_1            Nanyao Lu                88                  11                Local Luminous Infrared Galaxies, less integration time
+ KPGT_esturm_1        Eckhard Sturm             2                   0                Infrared bright galaxies at 0<z<1, mapping mode
+ KPGT_cwilso01_1      Christine Wilson         12                   3                Very Nearby Galaxies, have both mapping and pointing mode
+ GT1_lspinogl_2       Luigi Spinoglio          10                   3                Targets are bright Seyfert nucleus
+ OT1_jsmith01_1       J.D. Smith               11                   0                Spetral mapping of very nearby galaxies
+ OT1_jglenn_1         Jason Glenn               1                   1                Mapping and pointing FTS observation of NGC1266 
+ OT1_dfarrah_1        Duncan Farrah            17                   2                A total of 45 low-z ULIRGs will be available
+ KPGT_rguesten_1      Rolf Gusten               2                   1                Study of the ISM in Galactic Nuclei, mapping mode
+ OT1_gstacey_4        Gordon Stacey             1                   0                Observation of NGC891
+-----------------------------------------------------------------------------------------------------------------------------------------------
+* Here we count the observation number, considering some observations are within one galaxy but different regions. 
+And mapping and single pointing on same source will be only counted once.
+
+ 
+ 
+ TABLE 2.    The sources with H2O emission line detection
+====================================================================================================================================
+ H2O Detected               Observation ID*            Observation Mode**             Emission  Lines            Activity****          
+ Source  Name                                                                         Detected***                Classification  
+------------------------------------------------------------------------------------------------------------------------------------
+ NGC253                     KPGT_rguesten_1            mapping                        2,3,4,5,6                        cp
+ NGC1266                    OT1_jglenn_1               single pointing                2,3,4,5,6                        L
+ M82                        KPGT_cwilso01_1            single pointing/mapping        2,3,5                            H
+ NGC7582                    GT1_lspinogl_2             single pointing                2,3,b,c                          H
+ NGC1365-NE                 KPOT_pvanderw_1            single pointing                1,2,3,4,5,6,a,b,e                S2
+ NGC1365-SW                 KPOT_pvanderw_1            single pointing                1,3,c                            S2
+ NGC7552                    KPOT_pvanderw_1            single pointing                1,2,3,4,a                        H
+ ESO320-G030                KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,8,c,d,e              H
+ NGC5135                    KPOT_pvanderw_1            single pointing                1,2,3,4,a,b                      S2
+ CGCG049-057                KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,8,c                  H
+ NGC1068                    KPGT_cwilso01_1            single pointing/mapping        1,2,3,4,5,6,a,b                  S2
+ IC4734                     OT1_nlu_1                  single pointing                3,4,5,6                          H
+ ESO173-G015                KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,8,                   H
+ NGC7771                    KPOT_pvanderw_1            single pointing                2,3,6                            H
+ IRAS17578-0400             OT1_nlu_1                  single pointing                3,4,6,7,8                        H
+ NGC7130                    GT1_lspinogl_2             single pointing                2,3,4,5,6                        L
+ MCG+08-11-002              OT1_nlu_1                  single pointing                4                                H
+ Mrk331                     KPOT_pvanderw_1            single pointing                2,3,4,6                          S2
+ MCG+12-02-001              KPOT_pvanderw_1            single pointing                3,6                              H
+ IC5298                     OT1_nlu_1                  single pointing                3                                S2
+ NGC2623                    KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,c                    S2
+ IRASF01417+1651            OT1_nlu_1                  single pointing                2,3,4,5,6,7                      L
+ NGC3256                    KPOT_pvanderw_1            single pointing                1,2,4,6,a                        H
+ NGC7469                    KPOT_pvanderw_1            single pointing                1,2,3                            S1
+ Arp193                     KPOT_pvanderw_1            single pointing                2,3,4,5,6                        L
+ ESO099-G004                OT1_nlu_1                  single pointing                6                                H
+ VV340A                     OT1_nlu_1                  single pointing                2                                L
+ IRASF18293-3413            KPOT_pvanderw_1            single pointing                2,3                              H
+ NGC6240                    KPOT_pvanderw_1            single pointing                2,3,4,5,6                        L
+ Arp299-A                   KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,8,c,d                H
+ Arp299-B                   KPOT_pvanderw_1            single pointing                2,5,6,7                          H
+ Arp299-C                   KPOT_pvanderw_1            single pointing                2,6                              H
+ ESO069-IG006               OT1_nlu_1                  single pointing                3                                H
+ UGC05101                   GT1_lspinogl_2             single pointing                2,3,6                            L
+ ESO148-IG002               OT1_nlu_1                  single pointing                3                                H
+ ESO286-IG019               OT1_nlu_1                  single pointing                4,5,6                            H
+ IRASF05189-2524            KPOT_pvanderw_1            single pointing                2,3,4,5,6                        S1
+ IRAS06035-7102             OT1_dfarrah_1              single pointing                3,4,5,6                          H
+ IRAS23365+3604             OT1_dfarrah_1              single pointing                3,6                              cp
+ Mrk273                     KPOT_pvanderw_1            single pointing                2,3,4,5,6                        S2
+ Arp220                     KPGT_cwilso01_1            single pointing                2,3,4,5,6,7,8,c,d                L
+ IRAS09022-3615             OT1_nlu_1                  single pointing                3,5,6                            H
+ IRAS13120-5453             KPOT_pvanderw_1            single pointing                1,2,3,4,5,6,8,c,d                H
+ IRASF17207-0014            KPOT_pvanderw_1            single pointing                2,3,4,5,6,7,8,c,d                H
+ Mrk231                     KPOT_pvanderw_1            single pointing                1,2,3,4,5,6,7,8,b,c,d,e          S1
+------------------------------------------------------------------------------------------------------------------------------------
+*     The Herschel observation project ID;
+**    The observation mode used in this work;           
+***   The lines are H2O(111-000), H2O(211-202), H2O(202-111), H2O(220-211), H2O(312-303), H2O(321-312), H2O(422-413) and H2O(523-514)
+      are from 1-8  and H2O+(111-000,J_{3/2,1/2}), H2O+(111-000,J_{1/2,1/2}), H2O+(202-111,J_{3/2,3/2}), H2O+(202-111,J_{5/2,3/2}) 
+      and H218O(321-312) are from a-e;
+****  We classify L (LINER),  cp (composite) and H (HII) as star-forming dominated (HII+mild-AGN) while S1 and 
+      S2 (Seyfert Type 1 and Type 2) are AGN dominated (strong-AGN).
+
+
+
+TABLE 3. High redshift Lensed ULIRGs used in the paper* 
+==================================================================
+ NAME                         Reference**
+------------------------------------------------------------------
+ NA.v1.144                  Omont et al. 2013                                                  
+ SDP.9                      Omont et al. 2013                                         
+ NB.v1.78                   Omont et al. 2013                                         
+ G15v2.779                  Omont et al. 2013                                         
+ SDP.17b                    Omont et al. 2011; Omont et al. 2013                                         
+ HLSJ 0918+5144             Combes et al. 2012                                        
+ APM08279+5255              van der Werf et al. 2011                                  
+------------------------------------------------------------------
+*  Line 2 and 3 are used for the fitting, and APM08279+5255 is not included in the fitting;
+** See References in the paper.
