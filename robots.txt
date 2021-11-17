@@ -1,4 +1,4 @@
-Sitemap: http://cyang.pro/sitemap.xml
+Sitemap: https://cyang.pro/sitemap.xml
 
 User-agent: *
 Disallow:
