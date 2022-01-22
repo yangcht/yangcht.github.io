@@ -1,5 +1,5 @@
 ####################### IMPORTANT UPDATED INFORMATION #######################
-##  Please check this http://sfig.pmo.ac.cn/~yangcht/L_h2o-L_IR_table.dat  ##
+##  Please check this https://cyang.pro/docs/L_h2o-L_IR_table.dat  ##
 ##  for the very PRELIMINARY L_H2O and L_IR table, the full table          ##
 ##  will be published by Liu et al., in prep..                             ##
 #############################################################################
